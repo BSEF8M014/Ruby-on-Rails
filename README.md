@@ -35,12 +35,12 @@ One of the great things about Rails is that anyone can learn it, even with minim
 
 Here are some of the features that make Rails such a powerful framework:
 <ol>
-<li>Automated Testing: Rails provides built-in testing to make test cases easier to write and execute.</li>
+<li><b>Automated Testing:</b> Rails provides built-in testing to make test cases easier to write and execute.</li>
 
-<li>Scaffolding: This feature allows us to easily create models to manage our data, views to enable user-data interaction, and controllers to manage model-view communication. Scaffolding auto-generates a set of MVC files. In later sections, we will look at application structures set up with and without scaffolding.</li>
+<li><b>Scaffolding:</b> This feature allows us to easily create models to manage our data, views to enable user-data interaction, and controllers to manage model-view communication. Scaffolding auto-generates a set of MVC files. In later sections, we will look at application structures set up with and without scaffolding.</li>
 
-<li>Active Record: This framework operates on the assumption that ensuring data access logic as part of the object will educate users of that object on how to read and write to the database. Thus, objects carry both persistent data as well as behavior that operates on that data.</li>
+<li><b>Active Record:</b> This framework operates on the assumption that ensuring data access logic as part of the object will educate users of that object on how to read and write to the database. Thus, objects carry both persistent data as well as behavior that operates on that data.</li>
 
-<li>The Rails Community: Rails has a very active and enthusiastic community, so you can find tools and support for whatever issue you may be facing. It is also actively under development, so there are regular fixes and updates.</li>
+<li><b>The Rails Community:</b> Rails has a very active and enthusiastic community, so you can find tools and support for whatever issue you may be facing. It is also actively under development, so there are regular fixes and updates.</li>
   </ol>
   </p>
