@@ -44,7 +44,6 @@ Here are some of the features that make Rails such a powerful framework:
 
 <li><b>The Rails Community:</b> Rails has a very active and enthusiastic community, so you can find tools and support for whatever issue you may be facing. It is also actively under development, so there are regular fixes and updates.</li>
   </ol>
-  </p>
 <h1>
   Philosophy of Rails
 </h1>
