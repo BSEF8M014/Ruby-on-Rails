@@ -31,7 +31,8 @@
 </ol>
 <h1> Introduction to Rails </h1>
 <p>
-One of the great things about Rails is that anyone can learn it, even with minimal prior programming experience. Rails is a full-stack framework with many useful tools seamlessly integrated that will allow you to rapidly create dynamic, full-fledged applications. Its structure and conventions take very little time to learn, saving you a lot of time and effort in the long run.
+One of the great things about Rails is that anyone can learn it, even with minimal prior programming experience. Rails is a <span><b>full-stack</b></span> framework with many useful tools seamlessly integrated that will allow you to rapidly create dynamic, full-fledged applications. Its structure and conventions take very little time to learn, saving you a lot of time and effort in the long run.
+  <br><br><span style="font-size:0.875em"><q>A full-stack web application consists of two major components: the front-end–– what the user sees–– and the back-end–– the server. A full-stack framework allows developers to do both front-end and back-end development by writing code in a single programming language while providing tools for managing the server and the client.</q> <span>
 
 Here are some of the features that make Rails such a powerful framework:
 <ol>
@@ -44,3 +45,15 @@ Here are some of the features that make Rails such a powerful framework:
 <li><b>The Rails Community:</b> Rails has a very active and enthusiastic community, so you can find tools and support for whatever issue you may be facing. It is also actively under development, so there are regular fixes and updates.</li>
   </ol>
   </p>
+<h1>
+  Philosophy of Rails
+</h1>
+  <p>Rails is often referred to as an opinionated software. It assumes that there is a right way to do things, and its structure is set up in a manner that rewards doing so. In certain cases, it may even go as far as to punish unconventional approaches.</p>
+  <p>The main principles of Rails are:</p>
+  <ol>
+    <li>
+      <b>Convention over Configuration:</b> Rails believes that convention should be more important than configuration. Rails makes certain decisions for you to boost your overall productivity. For example, if there is a class Car in the model, the corresponding table in the database is called cars by default. These conventions help keep the code readable and concise, and they allow for easy navigation through the application, even when viewing someone else’s code.</li>
+    <li>
+      <b>Don’t Repeat Yourself (DRY):</b> Under the DRY principle, a single, unambiguous location contains the information. The Active Record framework is an example of DRY in action. For example, when using Active Record, the developer does not need to specify database column names in class definitions. Instead, Rails can retrieve this information from the database based on the class name.
+    </li>
+  </ol>
