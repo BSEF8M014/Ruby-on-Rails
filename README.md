@@ -14,5 +14,5 @@
 <p>Basic knowledge of relational databases and SQL</p>
 </li>
 </ol>
-<img src="" alt="No Image"/>
+<img src="./assests/ruby_css_js_db.svg" alt="No Image"/>
 <p data-id="127f369c5a13f62c84304a9cf38fcd93">Although you can learn Rails without necessarily knowing any of these prerequisites in advance, learning the framework will be much easier if you have some familiarity beforehand rather than trying to make adjustments on the fly.</p>
