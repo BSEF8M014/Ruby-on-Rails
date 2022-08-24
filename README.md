@@ -62,7 +62,8 @@ Here are some of the features that make Rails such a powerful framework:
   </h1>
   <p>
     For Installation of Packages in Mac
-    <pre style="background-color: #1e1e1e; border-radius: 0px;" >
+  </p>
+  <pre style="background-color: #1e1e1e; border-radius: 0px;" >
       <code data-lang="javascript" class=" vs-dark">
         <span class="mtk1">
           /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -70,4 +71,3 @@ Here are some of the features that make Rails such a powerful framework:
         <br>
       </code>
     </pre>
-  </p>
