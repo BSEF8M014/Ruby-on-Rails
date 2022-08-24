@@ -1,3 +1,4 @@
+<h1><a href="https://BSEF8M014.github.io/Ruby-on-Rails">Ruby on Rails</a> </h1>
 <h2 >Prerequisites</h2>
 <p >Learning the framework will be much easier if you have some familiarity beforehand rather than trying to make adjustments on the fly. It would be helpful if you were familiar with the following:</p>
 <ol >
@@ -56,3 +57,17 @@ Here are some of the features that make Rails such a powerful framework:
       <b>Don’t Repeat Yourself (DRY):</b> Under the DRY principle, a single, unambiguous location contains the information. The Active Record framework is an example of DRY in action. For example, when using Active Record, the developer does not need to specify database column names in class definitions. Instead, Rails can retrieve this information from the database based on the class name.
     </li>
   </ol>
+  <h1>
+  Installation of HomeBrew
+  </h1>
+  <p>
+    For Installation of Packages in Mac
+  </p>
+  <pre style="background-color: #1e1e1e; border-radius: 0px;" >
+      <code data-lang="javascript" class=" vs-dark">
+        <span class="mtk1">
+          /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+        </span>
+        <br>
+      </code>
+    </pre>
